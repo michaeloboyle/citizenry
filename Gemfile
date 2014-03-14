@@ -53,7 +53,7 @@ gem "omniauth-yahoo"
 
 #--[ Search ]-------------------------------------------------------------------
 # If you"re using the default sql-based search, you can comment this out.
-gem "thinking-sphinx", "~> 2.0.1", :require => "thinking_sphinx"
+# gem "thinking-sphinx", "~> 2.0.1", :require => "thinking_sphinx"
 
 #--[ Model ]--------------------------------------------------------------------
 gem "paperclip", "~> 2.3"
